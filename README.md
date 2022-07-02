@@ -2,7 +2,7 @@
 
 This is a simple react based weekly food planner.
 
-[@Shortcut to Website](https://drjayy.github.io/foodgen/)
+[@Shortcut to Website](https://drjayy.github.io/FoodGen/)
 
 ## Description
 
