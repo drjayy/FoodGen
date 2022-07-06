@@ -1,21 +1,54 @@
-.Page {
+.page {
+  background-color: #282c34 ; /*#282c34*/ /*#111727*/
+  margin: 0;
+  padding: 0;
+}
+
+.page.header {
+  color: white;
   text-align: center;
-  background-color: #282c34;
-}
-
-.Page-header {
-  background-color: #282c34;
-  min-height: 98vh;
+  padding: 2vh;
+  padding-left: 1vh;
+  padding-right: 1vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.Page-footer {
+.page.header.left {
+  margin-bottom: 1vh;
+  text-align: center;
+  width: 80%;
+}
+
+.page.header.left h1 {
+  font-size: 25px;
+  margin-left: 1vh;
+}
+
+.page.header.right {
+  justify-content: right;
+  width: 20%;
+}
+
+.page.header.right img{
+  padding-left: 2vh;
+  padding-right: 1vh;
+}
+
+/*.page.body {
   color: white;
+  min-height: 80vh;
+  text-align: left;
+  padding: 2vh;
+  display: flex;
+  flex-direction: row;
+}*/
+
+
+.page.footer {
+  text-align: center;
+  color: white;
+  padding-top: 4vh;
   padding-bottom: 2vh;
-  background-color: #282c34;
 }

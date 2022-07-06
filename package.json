@@ -1,6 +1,6 @@
 {
   "homepage": "https://drjayy.github.io/FoodGen",
-  "name": "testwebsite",
+  "name": "foodgen",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
