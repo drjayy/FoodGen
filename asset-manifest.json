@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/testwebsite/static/css/main.0be082b0.css",
-    "main.js": "/testwebsite/static/js/main.c2c95beb.js",
-    "static/js/787.abdfedb0.chunk.js": "/testwebsite/static/js/787.abdfedb0.chunk.js",
-    "index.html": "/testwebsite/index.html",
-    "main.0be082b0.css.map": "/testwebsite/static/css/main.0be082b0.css.map",
-    "main.c2c95beb.js.map": "/testwebsite/static/js/main.c2c95beb.js.map",
-    "787.abdfedb0.chunk.js.map": "/testwebsite/static/js/787.abdfedb0.chunk.js.map"
+    "main.css": "/FoodGen/static/css/main.b31baa46.css",
+    "main.js": "/FoodGen/static/js/main.f19e9064.js",
+    "static/js/787.d3c9ed0e.chunk.js": "/FoodGen/static/js/787.d3c9ed0e.chunk.js",
+    "index.html": "/FoodGen/index.html",
+    "static/media/brand-github.svg": "/FoodGen/static/media/brand-github.e0b534d94742d86b6ace01aa7dade90c.svg",
+    "static/media/plant.svg": "/FoodGen/static/media/plant.ea4832a2a0cde8b5fb9ad70d941a42be.svg",
+    "static/media/bookmarks.svg": "/FoodGen/static/media/bookmarks.fb5cf2a4a41fd9d24f66b10bd4a61ada.svg",
+    "static/media/gps.svg": "/FoodGen/static/media/gps.7c4ea4ebb64419498ce81c17dd139260.svg",
+    "main.b31baa46.css.map": "/FoodGen/static/css/main.b31baa46.css.map",
+    "main.f19e9064.js.map": "/FoodGen/static/js/main.f19e9064.js.map",
+    "787.d3c9ed0e.chunk.js.map": "/FoodGen/static/js/787.d3c9ed0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0be082b0.css",
-    "static/js/main.c2c95beb.js"
+    "static/css/main.b31baa46.css",
+    "static/js/main.f19e9064.js"
   ]
 }
