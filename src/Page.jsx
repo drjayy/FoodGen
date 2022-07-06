@@ -1,5 +1,5 @@
 import './Page.css';
-import Home from './Home';
+import Home from './Home.jsx';
 import GPS from './assets/tabler-icons/gps.svg';
 import GitHub from './assets/tabler-icons/brand-github.svg';
 import Bookmarks from './assets/tabler-icons/bookmarks.svg';
